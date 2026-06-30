@@ -1,0 +1,15 @@
+{
+  "name": "PLUS Mainnet",
+  "chain": "PLUS",
+  "rpc": [
+    "https://rpc.plusmain.net"
+  ],
+  "nativeCurrency": {
+    "name": "PLUS",
+    "symbol": "PLUS",
+    "decimals": 18
+  },
+  "shortName": "plus",
+  "chainId": 8080,
+  "networkId": 8080
+}
